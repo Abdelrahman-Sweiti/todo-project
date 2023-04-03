@@ -6,7 +6,7 @@
 
 
 
-![index page wire](lab031.png)
+![index page wire](./assests/lab031.png)
 
 
-![about page wire](lab032.png)
+![about page wire](./assests/lab032.png)
